@@ -1,0 +1,38 @@
+{
+  "name": "PageTrSnippets",
+  "publisher": "zinface",
+  "displayName": "Page-tr Snippets",
+  "description": "Code snippets for Page-tr",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "page-tr",
+        "aliases": [
+          "page-tr"
+        ],
+        "extensions": [
+          ".tr"
+        ]
+      }
+    ],
+    "snippets": [
+      {
+        "language": "page-tr",
+        "path": "./snippets/page-tr.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinface/vscode-pagetr-snippets"
+  },
+  "author": "zinface <zinfacex@gmail.com>",
+  "license": "ISC"
+}
