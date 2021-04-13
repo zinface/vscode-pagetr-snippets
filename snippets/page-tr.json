@@ -51,9 +51,9 @@
     "subtitile": {
         "prefix": "st",
         "body":[
-            "\\$\\$subtitile $1"
+            "\\$\\$subtitle $1"
         ],
-        "description": "Code snippet for \\$\\$subtitile tag"
+        "description": "Code snippet for \\$\\$subtitle tag"
     },
     "subcontent": {
         "prefix": "sc",
