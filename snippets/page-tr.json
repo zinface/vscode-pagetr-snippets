@@ -56,6 +56,13 @@
         ],
         "description": "Code snippet for \\$\\$subtitle tag"
     },
+    "subsection": {
+        "prefix": "ss",
+        "body":[
+            "\\$\\$subsection $1"
+        ],
+        "description": "Code snippet for \\$\\$subsection tag"
+    },
     "subcontent": {
         "prefix": "sc",
         "body":[
