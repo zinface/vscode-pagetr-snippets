@@ -30,6 +30,7 @@ $$subtitle SYNOPSIS
     comment(co)           片段：manpage 注释标志
     title(t)              片段：manpage 标题标志
     subtitle(st)          片段：节点标志
+    subsection(ss)        片段：子节点标志
     subcontent(sc)        片段：子节标志
     cbegin(cb)            片段：开始相对缩进内容起始标志
     cend(ce)              片段：结束相对缩进内容结束标志
@@ -37,6 +38,7 @@ $$subtitle SYNOPSIS
     fi                    片段：斜体
     fr                    片段：正体(Roman罗马字体)
     fe                    片段：字体结束标志 - 同fr
+    code                  片段：代码片段
 ```
 
 ## Install plugin

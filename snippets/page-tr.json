@@ -113,5 +113,14 @@
             "\\$\\$fe"
         ],
         "description": "Code snippet for \\$\\$fe tag"
+    },
+    "code": {
+        "prefix": "code",
+        "body":[
+            "\\$\\$encode",
+            "    $1",
+            "\\$\\$decode"
+        ],
+        "description": "Code snippet for \\$\\$code tag"
     }
 }
